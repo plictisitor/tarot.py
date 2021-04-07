@@ -12,7 +12,6 @@ class Card:
 					 "Ahcarin Pulsarum Varelor " + \
 					 "Qavalec Vortisrit Vooradu " + \
 					 "Faras Curactem Asafaril" # magical words channeled using infernal energy 
-					 # these will control the RAM so answers are accurate
 
 	def __add__(self, item):
 		if type(item).__name__ == "Card":
