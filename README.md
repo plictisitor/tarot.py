@@ -1,5 +1,6 @@
 # tarot.py
 First Occult Related Python Library  
+##### Soon on pypi.org
 
 # How to use
 Download the `tarot` folder and place it in your project dir. Then you can use `from tarot import *`
