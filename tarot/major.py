@@ -1,0 +1,27 @@
+''' Major Arcana '''
+
+from cards import *
+
+RWMajor = Deck()
+RWMajor += Card("The Fool",0, ["Air"])
+RWMajor += Card("The Magician",1, ["Mercury"])
+RWMajor += Card("The High Priestess",2, ["Moon"])
+RWMajor += Card("The Empress",3, ["Venus"])
+RWMajor += Card("The Emperor",4, ["Aries"])
+RWMajor += Card("The Hierophant",5, ["Taurus"])
+RWMajor += Card("The Lovers",6, ["Gemini"])
+RWMajor += Card("The Chariot",7, ["Cancer"])
+RWMajor += Card("Strength",8, ["Leo"])
+RWMajor += Card("The Hermit",9, ["Virgo"])
+RWMajor += Card("Wheel of Fortune",10, ["Jupiter"])
+RWMajor += Card("Justice",11, ["Libra"])
+RWMajor += Card("The Hanged Man",12, ["Water"])
+RWMajor += Card("Death",13, ["Scorpio"])
+RWMajor += Card("Temperance",14, ["Sagittarius"])
+RWMajor += Card("The Devil",15, ["Capricorn"])
+RWMajor += Card("The Tower",16,["Mars"])
+RWMajor += Card("The Star",17, ["Aquarius"])
+RWMajor += Card("The Moon",18, ["Pisces"])
+RWMajor += Card("The Sun",19, ["Sun"])
+RWMajor += Card("Judgement",20, ["Fire"])
+RWMajor += Card("The World",21, ["Earth/Saturn"])
