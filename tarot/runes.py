@@ -1,4 +1,4 @@
-''' Major Arcana '''
+''' Runes '''
 
 from cards import *
 
